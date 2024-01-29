@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Muhammad Talha @ThatYoungEngineer.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning PHP and JS.
-- 💞️ I’m looking to collaborate on projects based on full stack development.
-- 📫 I'm reachable at @muhammad.talhaah@gmail.com
+Passionate coder and tech enthusiast on a perpetual journey of learning and innovation. With a background in the MERN stack, I thrive on turning complex challenges into elegant solutions. My GitHub repositories reflect my commitment to clean code, collaborative development, and a relentless pursuit of improvement. Let's connect and collaborate to build something great!
 
 <!---
 ThatYoungEngineer/ThatYoungEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
